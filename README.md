@@ -13,7 +13,7 @@ This project frames **industry growth prediction** as a **binary classification*
 
 ## Files
 - Notebook: `Capstone_20_1_Initial_Report_EDA.ipynb`
-- Data: `data/EDD-Data.csv`
+- Data: `EDD-Data.csv`
 
 ## Open the Notebook
-Open `Capstone_20_1_Initial_Report_EDA.ipynb` in Jupyter Lab/Notebook.
+Open [`Capstone_20_1_Initial_Report_EDA.ipynb`]() in Jupyter Lab/Notebook.
